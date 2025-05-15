@@ -1,5 +1,5 @@
 # Aplicativo de finanças
-
+npm i @vercel/speed-insights
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/marianas-projects-9fc2ea86/v0-aplicativo-de-financas)
